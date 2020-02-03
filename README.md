@@ -1,4 +1,4 @@
-# Remote DevOps (Epam Anywhere)
+# Remote DevOps (Azure/ AWS/ Google cloud)
 
 Remote DevOps (Azure/ AWS/ Google cloud)
 
