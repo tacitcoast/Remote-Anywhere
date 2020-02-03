@@ -1,4 +1,4 @@
-# Remote DevOps (Azure/ AWS/ Google cloud)
+# Remote DevOps (Anywhere)
 
 Remote DevOps (Azure/ AWS/ Google cloud)
 
