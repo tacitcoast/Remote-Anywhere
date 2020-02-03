@@ -1,6 +1,6 @@
-# Remote DevOps (Azure/ AWS/ Google cloud)
+# Remote DevOps (Epam Anywhere)
 
-Remote DevOps (Epam Enywhere)
+Remote DevOps (Azure/ AWS/ Google cloud)
 
 Друзья, отличные новости, у нас в EPAM открыты вакансии в DevOps (Azure/ AWS/ Google cloud) с удаленной занятостью!
 Есть возможность присоединиться к нам из любого города как на full-time, так и на part-time.
